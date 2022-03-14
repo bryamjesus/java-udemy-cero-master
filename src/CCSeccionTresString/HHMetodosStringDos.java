@@ -12,6 +12,6 @@ public class HHMetodosStringDos {
         System.out.println("trabalenguas.starWith() = " + trabalenguas.startsWith("lenguas")); //si comienza con dicha palabra -> true o false
         System.out.println("trabalenguas.endWith() = " + trabalenguas.endsWith("lenguas")); //si termina con dica palabra
         System.out.println("  trabalenguas  ");
-        System.out.println("  trabalenguas  fgdf    ".trim()); //quita los espacios
+        System.out.println("  trabalenguas  trabalenguas    ".trim()); //quita los espacios
     }
 }
